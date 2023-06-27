@@ -43,3 +43,32 @@ Usando a função GPT_LIST() do SheetGPT, gere 20 nomes de pessoas brasileiras n
 
 
 =GPTLIST("Gere uma lista com 20 nomes de pessoas brasileiras na coluna A. Na coluna B adicione uma profissão com umas seguintes profissoões: Marketing, TI, Direito ou Saúde. Na coluna C adicione um salário com um valor entre 1300 a 20000")
+
+## Aula 3
+### Prompts da aula
+Aqui você encontra os prompts iniciais da aula:
+
+Vamos simular o funcionamento do ChatGPT. Para cada frase que você escrever no prompt, você deve listar as 5 palavras com maior probabilidade de completá-la, juntamente com a probabilidade de cada uma delas. Apenas as palavras e probabilidades, sem mais nada, certo?
+Resuma em português este texto.
+
+Crie um texto para LinkedIn para divulgar a Imersão em IA da Alura.
+
+Pergunta: Um diretor de cinema já dirigiu 16 filmes. Metade dos filmes que ele dirigiu são de ação, e metade dos filmes de ação conta com a participação do Nicolas Cage. Quantos filmes de ação com a participação do Nicolas Cage ele dirigiu? Resposta: A resposta em números é...
+
+### Desafio
+Explorando as respostas do ChatGPT
+Teste as respostas do ChatGPT quando você faz perguntas curtas, sem dar exemplos, e quando você elabora mais a pergunta, fornecendo um ou mais exemplos.
+
+Calculando Imposto com ChatGPT: Cadeia de Raciocínio e Valores da Planilha
+Utilize a lista de valores da [planilha](https://docs.google.com/spreadsheets/d/1ur7AK_YFBmaD4A7obKFjUfw1CiCCGikmtfNqo7Wosgk/edit#gid=0) e o método Chain-of-Thought (Cadeia de raciocínio) no ChatGPT para obter o cálculo do valor do imposto a ser arrecadado. Considere que pessoas com rendimento de até R$20.000,00 pagam 10% de imposto, pessoas com rendimento entre R$20.000,00 e R$40.000,00 pagam 20% de imposto, e pessoas com rendimento acima de R$40.000,00 pagam 30% de imposto.
+
+
+### Links:
+- [Ferramenta IA para otimizar o seu uso do Linkedin: Engage-AI](https://engage-ai.co/)
+- [Hipsters ponto tech](https://www.hipsters.tech/chatgpt-transformers-e-redes-neurais-hipsters-ponto-tech-352/)
+- [Artigo: Whats is ChatGPT Doing… and why does it work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+- [Artigo: Large Language Models are zero-shot reasoners](https://arxiv.org/abs/2205.11916)
+- [Artigo: Language Models Perform Reasoning via Chain of Thought](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html)
+- [Artigo: Melhores práticas de uso do GPT](https://platform.openai.com/docs/guides/gpt-best-practices)
+- [Artigo: Maieutic prompting (Técnica maiêutica)](https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md#maieutic-prompting)
+- [Artigo: Chain-of-thought Prompting Elicits Reasoning in LLM](https://arxiv.org/abs/2201.11903)
